@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
       🔭Owner of Scaper Studio🔭
-  Currently developing "The Backwars"
+      Currently developing "The Backwars"
       
       Soon on Epic Games and Steam
 
