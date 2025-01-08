@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+      🔭Owner of Scaper Studio🔭
+                  ||
+                  ||
+   Currently developing "The Backwars"
+                  ||
+      Soon on Steam and Epic Games
+
+
+
+ 
