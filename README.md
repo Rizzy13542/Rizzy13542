@@ -1,4 +1,4 @@
-### Hi there 👋
+###Unreal Engine Game Dev
 
 <!--
 **Rizzy13542/Rizzy13542** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,8 +18,6 @@ Here are some ideas to get you started:
                   ||
                   ||
    Currently developing "The Backwars"
-                  ||
-      Soon on Steam and Epic Games
 
 
 
